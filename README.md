@@ -1,23 +1,49 @@
-# ARKA - Учебный проект по веб-программированию
+<div align="center">
+  <h1>📦 ARKA Landing Page</h1>
+  <p>A static landing page for a custom packaging service.</p>
 
-## Описание
-Данный репозиторий содержит учебный проект, выполненный в рамках курса веб-программирования (1 семестр в университете). Проект представляет собой статичную верстку главной страницы лендинга для сервиса кастомной упаковки **ARKA**. 
+  [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
+</div>
 
-Целью проекта было закрепление базовых навыков верстки веб-страниц по макету с использованием семантического HTML и стилизации с помощью CSS.
+<br>
 
-## Используемые технологии
-- HTML5 (семантическая разметка)
-- CSS3 (Flexbox/Grid, позиционирование, адаптивность)
-- Используются базовые стили сброса (`reset.css`, `normalize.css`)
+## 📝 About The Project
 
-## Структура проекта
-- `index.html` - главный файл разметки страницы.
-- `assets/styles/` - директория с CSS-файлами стилей (`styles3.css`, `normalize.css`, `reset.css`).
-- `assets/img/` - директория с изображениями, используемыми на странице.
+This is a **University Coursework Project** completed during the 1st semester of my Web Programming course. The objective was to practice and solidify fundamental web development skills by translating a design mockup into a fully functional, static web page.
 
-## Как запустить
-Проект не требует специального сервера для запуска. 
-Достаточно скачать репозиторий и открыть файл `index.html` в любом современном браузере.
+The project features a landing page for **ARKA**, a fictional (or mockup-based) service providing custom boxes and packaging solutions. 
 
-## Статус
-Проект является учебным и завершен.
+## 🎨 Features
+
+- **Semantic HTML5:** Proper document structure for accessibility and SEO.
+- **Custom CSS3:** Styling with modern CSS techniques (Flexbox, Grid).
+- **Responsive Layout:** Basic adaptability for different screen sizes.
+- **Clean Code:** Usage of `reset.css` and `normalize.css` for cross-browser consistency.
+
+## 🚀 Getting Started
+
+Since this is a static web project, there are no complex build tools or dependencies required.
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/atomicDataDev/arka-landing-page.git
+   ```
+2. **Open the project:**
+   Simply open the `index.html` file in your preferred web browser to view the landing page.
+
+## 📁 Project Structure
+
+```text
+├── assets/
+│   ├── fonts/       # Custom typography used in the project
+│   ├── img/         # Image assets and icons
+│   └── styles/      # CSS stylesheets (styles3.css, normalize.css, reset.css)
+├── index.html       # The main entry point
+└── README.md        # Project documentation
+```
+
+## 🎓 Academic Context
+
+This project was developed exclusively for educational purposes as part of a university curriculum to learn the basics of frontend web development.
