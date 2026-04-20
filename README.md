@@ -13,7 +13,7 @@
 
 This is a **University Coursework Project** completed during the 1st semester of my Web Programming course. The objective was to practice and solidify fundamental web development skills by translating a design mockup into a fully functional, static web page.
 
-The project features a landing page for **ARKA**, a fictional (or mockup-based) service providing custom boxes and packaging solutions. 
+The project features a landing page for **ARKA**, a mockup-based service providing custom boxes and packaging solutions. 
 
 ## 🎨 Features
 
